@@ -16,7 +16,7 @@ dependencies:
     git: 
       url: https://github.com/abner/injectable.git
       path: injectable/
-      ref: master
+      ref: d08380
 
 dev_dependencies:
   build_runner: ^1.0.0
